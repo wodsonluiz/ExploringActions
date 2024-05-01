@@ -31,3 +31,4 @@
 /Users/wodsoncorreia/Documents/fonts/ExploringActions/src/ExploringActions/obj/Debug/net8.0/ExploringActions.pdb
 /Users/wodsoncorreia/Documents/fonts/ExploringActions/src/ExploringActions/obj/Debug/net8.0/ExploringActions.genruntimeconfig.cache
 /Users/wodsoncorreia/Documents/fonts/ExploringActions/src/ExploringActions/obj/Debug/net8.0/ref/ExploringActions.dll
+/Users/wodsoncorreia/Documents/fonts/ExploringActions/src/ExploringActions/obj/Debug/net8.0/ExploringActions.sourcelink.json
